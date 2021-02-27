@@ -1,0 +1,50 @@
+Thanks for downloading Auto Typer 1.0.0
+
+Here are some useful tips when using this program.
+
+SKIP THIS PART IF YOU HAVE PYAUTOGUI AND PYTHON INSTALLED
+    How to install python:
+        to install python, you need to go to the python foundation website, and download the file you need. This depends on your OS.
+        run the installer.
+        you now have python
+    
+    how to install packages:
+        SKIP THIS IF YOU KNOW/HAVE THE MODULES INSTALLED
+
+        to install the modules, use pip (what I like to use)
+        to install pip, go to https://bootstrap.pypa.io/get-pip.py
+        copy the whole text that comes up, paste into python IDE after pressing file, new file in the console.
+
+        run the program python program you typed by:
+            going to run, and pressing run or pressing F5. 
+            wait for the program to run.
+
+        open your command prompt (on windows)
+        type (py -m pip install pyautogui) without the brackets.
+        you have installed the package pyautogui.
+
+USING THE PROGRAM
+    the program is written in python 3.9.
+    this program accepts multiple scripts. the scripts must be named accordingly see below
+        script name format: script+(number)
+        e.g.: script1, script2, script3, script4, script5
+    
+    this program will type out the word, and press enter than wait 300 miliseconds to account for the sending time.
+
+    when the program starts, you will be prompted to choose the script number. This parameter accepts the script number.(the number after the word script e.g if the name is script1 the run number will be 1)
+    after that, you will be prompted to choose if the script should repeat. this accepts (y, Y, n, N)Y standing for yes, N standing for no.
+
+READ THIS BEFORE USE
+    To stop this program, move the cursor to the top right of the screen.
+
+PREMADE SCRIPTS
+    script1 is the dialogue script from the bee movie.
+    script2 is the webster dictionary. 
+
+DEV NOTES/NOTES
+    Please report any errors to this repository by making a issue.
+    I can be contacted via discord at ゆうた#9956.
+        you can contact me if 
+            you can't install something
+            you need help with this program
+    I am not liable for any damage that is caused by this program. This program is provided as is.
